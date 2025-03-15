@@ -12,4 +12,4 @@
 - **Jupyter Notebook**  
 
 #### 📂 Файл проекта  
-[📄 real_estate_prices_analysis.ipynb](real_estate_prices_analysis.ipynb)  
+📄 [real_estate_prices_analysis.ipynb](real_estate_prices_analysis.ipynb)  
