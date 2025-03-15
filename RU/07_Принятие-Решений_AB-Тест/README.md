@@ -14,8 +14,8 @@
 
 
 ## 🛠️ Используемые технологии  
-- **Python**: Pandas, NumPy, SciPy, Statsmodels  
-- **Визуализация**: Matplotlib, Seaborn  
+- **Python**: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`  
+- **Визуализация**: `Matplotlib`, `Seaborn`  
 - **Jupyter Notebook**  
 
 
