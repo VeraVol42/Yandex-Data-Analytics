@@ -13,4 +13,4 @@
 - **Jupyter Notebook**  
 
 #### 📂 Файл проекта  
-[📄 credit_risk_assessment.ipynb](credit_risk_assessment.ipynb)  
+📄 [credit_risk_assessment.ipynb](credit_risk_assessment.ipynb)  
