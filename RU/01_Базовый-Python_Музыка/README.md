@@ -12,6 +12,6 @@
 - **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
 - **Jupyter Notebook** 
 
-#### 📂 Файл проекта  
+#### 📂 Файл: 
 📄 [yandex_music_genre_analysis.ipynb](yandex_music_genre_analysis.ipynb)  
 
