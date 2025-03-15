@@ -11,11 +11,6 @@
 
 
 
-**Файлы**
-- 📄 [moscow_food_market_analysis.ipynb](moscow_food_market_analysis.ipynb) — Jupyter Notebook с полным анализом
-- 📊 [Итоговая презентация в pdf](https://disk.yandex.ru/i/PtVkcRensKxvVA) 
-
-
 
 🔧 **Технологии**  
 - **Анализ данных**: `pandas`, `numpy`, `re`  
@@ -23,4 +18,9 @@
 - **Картографический анализ**: folium (`Map`, `Choropleth`, `Marker`, `CustomIcon`), `MarkerCluster`  
 - **Работа с API**: requests, json  
 
+
+
+**Файлы**
+- 📄 [moscow_food_market_analysis.ipynb](moscow_food_market_analysis.ipynb) — Jupyter Notebook с полным анализом
+- 📊 [Итоговая презентация в pdf](https://disk.yandex.ru/i/PtVkcRensKxvVA) 
 
