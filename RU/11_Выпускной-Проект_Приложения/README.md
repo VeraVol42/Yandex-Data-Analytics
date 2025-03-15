@@ -38,6 +38,3 @@
 **Файл**:
 - 📄 [`sql_book_service_research.ipynb`](sql_book_service_research.ipynb) — решение SQL-задач
 
----
-
-## 📂 Структура репозитория
