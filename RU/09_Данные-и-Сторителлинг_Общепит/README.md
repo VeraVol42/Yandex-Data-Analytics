@@ -7,6 +7,8 @@
 📊 **Данные** – информация из **Яндекс Карт и Яндекс Бизнес** (лето 2022).  
 
 
+## 📄 Файлы
+- [`moscow_food_market_analysis.ipynb`](moscow_food_market_analysis.ipynb) — Jupyter Notebook с полным анализом
 🔗 [Итоговая презентация в pdf](https://disk.yandex.ru/i/PtVkcRensKxvVA) 
 
 
