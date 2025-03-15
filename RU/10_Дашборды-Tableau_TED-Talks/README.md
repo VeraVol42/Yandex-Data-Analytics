@@ -1,13 +1,10 @@
-# 📊 Построение дашбордов в Tableau
+## 📊 Построение дашбордов в Tableau
 
 
 Проект направлен на исследование данных о конференциях TED с использованием **Tableau**. Построены дашборды для анализа распределения выступлений по странам, тематикам и авторам.  
 
-📌 **[Дашборд на Tableau Public](https://public.tableau.com/views/TEDDashboardstory2/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-
-
-🔹 **Ключевые этапы:**  
+#### 🔹 Ключевые этапы: 
 - **Загрузка и обработка данных** (объединение таблиц, фильтрация).  
 - **Дашборд "История выступлений"** – анализ географии и динамики по годам.  
 - **Дашборд "Тематики выступлений"** – популярность тем, анализ смеха и аплодисментов.  
@@ -16,5 +13,8 @@
 
 
 
-🛠 **Инструменты:**
+#### 🛠 Используемые инструменты:
 - `Tableau` 
+
+#### 📂 Файл: 
+📌 **[Дашборд на Tableau Public](https://public.tableau.com/views/TEDDashboardstory2/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
