@@ -6,7 +6,7 @@
 📌 **[Дашборд на Tableau Public](https://public.tableau.com/views/TEDDashboardstory2/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 
-🛠 **Используемые инструменты**
+🛠 **Инструменты:**
 - `Tableau` 
 
 🔹 **Ключевые этапы:**  
