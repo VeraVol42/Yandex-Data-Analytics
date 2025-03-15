@@ -1,6 +1,5 @@
 # 🎮 Анализ трендов на рынке видеоигр  
-
-#### 📌 Описание  
+ 
 Этот проект посвящен исследованию рынка видеоигр, анализу продаж и выявлению ключевых трендов.  
 
 #### 🔍 Основные задачи  
@@ -13,5 +12,5 @@
 - **Jupyter Notebook**  
 
 #### 📂 Файл проекта  
-[📄 video_game_market_trends.ipynb](sandbox:/mnt/data/video_game_market_trends.ipynb)  
+[📄 video_game_market_trends.ipynb](video_game_market_trends.ipynb)  
 
