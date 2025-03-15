@@ -15,11 +15,11 @@
 - Анализ воронки конверсии и ключевых продуктовых метрик
 
 **Инструменты**:
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Методы когортного анализа, сегментация, построение воронки и диаграммы Санкея
+- `Python` (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`)
+
 
 **Файлы**:
-- 📄 [`mobile_apps_user_segmentation.ipynb`](mobile_apps_user_segmentation.ipynb) — Jupyter Notebook с полным анализом
+- 📄 [mobile_apps_user_segmentation.ipynb](mobile_apps_user_segmentation.ipynb) — Jupyter Notebook с полным анализом
 - 📊 [Презентация с основными выводами и графиками](https://disk.yandex.ru/i/Ht2FAqyJ96wxAw) *(PDF-файл)*
 
 ---
@@ -32,9 +32,8 @@
 - Подготовка данных для аналитики и оптимизация запросов
 
 **Инструменты**:
-- SQL (PostgreSQL / MySQL / SQLite и т.п.)
-- Написание и отладка запросов для решения аналитических задач
+- `SQL` (`PostgreSQL` / `MySQL` / `SQLite` и т.п.)
 
 **Файл**:
-- 📄 [`sql_book_service_research.ipynb`](sql_book_service_research.ipynb) — решение SQL-задач
+- 📄 [sql_book_service_research.ipynb](sql_book_service_research.ipynb) — решение SQL-задач
 
