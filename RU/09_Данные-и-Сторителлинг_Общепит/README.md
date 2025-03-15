@@ -12,8 +12,8 @@
 
 
 **Файлы**
-📄 [moscow_food_market_analysis.ipynb](moscow_food_market_analysis.ipynb) — Jupyter Notebook с полным анализом
-📄 [Итоговая презентация в pdf](https://disk.yandex.ru/i/PtVkcRensKxvVA) 
+- 📄 [moscow_food_market_analysis.ipynb](moscow_food_market_analysis.ipynb) — Jupyter Notebook с полным анализом
+- 📊 [Итоговая презентация в pdf](https://disk.yandex.ru/i/PtVkcRensKxvVA) 
 
 
 
