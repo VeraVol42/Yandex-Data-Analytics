@@ -12,5 +12,5 @@
 - **Jupyter Notebook**  
 
 #### 📂 Файл:  
-[📄 video_game_market_trends.ipynb](video_game_market_trends.ipynb)  
+📄 [video_game_market_trends.ipynb](video_game_market_trends.ipynb)  
 
