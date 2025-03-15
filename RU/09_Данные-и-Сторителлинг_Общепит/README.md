@@ -8,14 +8,14 @@
 
 
 📄 **Файлы**
-- [`moscow_food_market_analysis.ipynb`](moscow_food_market_analysis.ipynb) — Jupyter Notebook с полным анализом
-- [`Итоговая презентация в pdf`](https://disk.yandex.ru/i/PtVkcRensKxvVA) 
+- [moscow_food_market_analysis.ipynb](moscow_food_market_analysis.ipynb) — Jupyter Notebook с полным анализом
+- [Итоговая презентация в pdf](https://disk.yandex.ru/i/PtVkcRensKxvVA) 
 
 
 🔧 **Используемые технологии**  
-- **Анализ данных**: pandas, numpy, re  
-- **Визуализация**: matplotlib, seaborn, plotly (graph_objects, express)  
-- **Картографический анализ**: folium (Map, Choropleth, Marker, CustomIcon), MarkerCluster  
+- **Анализ данных**: `pandas`, `numpy`, `re`  
+- **Визуализация**: `matplotlib`, `seaborn`, `plotly` (graph_objects, express)  
+- **Картографический анализ**: folium (`Map`, `Choropleth`, `Marker`, `CustomIcon`), `MarkerCluster`  
 - **Работа с API**: requests, json  
 
 
