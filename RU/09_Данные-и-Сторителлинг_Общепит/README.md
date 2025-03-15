@@ -8,9 +8,13 @@
 - Анализ распределения ресторанов по улицам и районам  
 - Оценка рыночных трендов и перспективных направлений  
 
-#### 🛠 Используемые инструменты:  
-- **Python**: `Pandas`, `Matplotlib`, `Seaborn`  
-- **Jupyter Notebook**  
 
-#### 📂 Файл: 
-📄 [moscow_food_market_analysis.ipynb](moscow_food_market_analysis.ipynb)  
+#### 🛠 Используемые инструменты:
+- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `re`, `requests`, `json`  
+- **GIS**: `Folium` 
+- **Jupyter Notebook**
+
+#### 📂 Файлы: 
+- 📄 [moscow_food_market_analysis.ipynb](moscow_food_market_analysis.ipynb)   
+- 📊 [Презентация в PDF](https://disk.yandex.ru/i/PtVkcRensKxvVA)
+
