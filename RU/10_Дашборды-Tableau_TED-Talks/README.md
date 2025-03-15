@@ -5,7 +5,7 @@ https://public.tableau.com/shared/ZQSKRCXPX?:display_count=n&:origin=viz_share_l
 **Описание:**  
 Проект направлен на исследование данных о конференциях TED с использованием **Tableau**. Построены дашборды для анализа распределения выступлений по странам, тематикам и авторам.  
 
-📌 **[Дашборд на Tableau Public]([https://public.tableau.com/shared/ZQSKRCXPX?:display_count=n&:origin=viz_share_link])**
+📌 **[Дашборд на Tableau Public](https://public.tableau.com/shared/ZQSKRCXPX?:display_count=n&:origin=viz_share_link)**
 
 **Ключевые этапы:**  
 - **Загрузка и обработка данных** (объединение таблиц, фильтрация).  
