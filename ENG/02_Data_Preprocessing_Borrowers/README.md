@@ -11,4 +11,5 @@ This project is dedicated to analyzing borrower data and building a model to ass
 - **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`  
 - **Jupyter Notebook**  
 
-#### 📄 File: [credit_risk_assessment.ipynb](credit_risk_assessment.ipynb)
+#### 📂 File:
+📄 [credit_risk_assessment.ipynb](credit_risk_assessment.ipynb)
