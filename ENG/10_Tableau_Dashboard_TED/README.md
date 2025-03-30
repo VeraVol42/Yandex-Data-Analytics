@@ -13,4 +13,4 @@ This project focuses on exploring TED conference data using **Tableau**. Dashboa
 - `Tableau`  
 
 #### 📂 File:  
-📌 **[Dashboard on Tableau Public](https://public.tableau.com/views/TEDDashboardstory2/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+📌 **[Dashboard on Tableau Public](https://public.tableau.com/views/TEDDashboardstory_ENG/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
