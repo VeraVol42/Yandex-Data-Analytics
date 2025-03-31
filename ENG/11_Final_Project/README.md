@@ -17,7 +17,7 @@ This repository contains **two independent projects** completed as part of the f
 
 #### 📂 Files:
 - 📄 [mobile_apps_user_segmentation.ipynb](mobile_apps_user_segmentation.ipynb) — Jupyter Notebook with full analysis  
-- 📊 [Presentation with key insights and charts](https://disk.yandex.ru/i/Ht2FAqyJ96wxAw) *(PDF file)*  
+- 📊 [Presentation with key insights and charts](https://drive.google.com/file/d/1fX0BtBVZemm-QXxHqNQYgY4OQk23S8W_/view?usp=sharing) *(PDF file)*  
 
 ---
 
