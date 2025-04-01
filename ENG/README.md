@@ -1,7 +1,3 @@
-Sure! Here's the English translation of your project portfolio for the Yandex Practicum Data Analyst course:
-
----
-
 ## Data Analyst Course by Yandex Practicum
 
 A portfolio of projects completed as part of the "Data Analyst" course from Yandex Practicum. The program combines theoretical foundations of statistics, programming, and hands-on tasks to prepare specialists in data analytics.
