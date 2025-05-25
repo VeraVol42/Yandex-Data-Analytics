@@ -1,6 +1,6 @@
 ## 🎓 Graduation Project
 
-This repository contains **two independent projects** completed as part of the final assignment. The **mobile app analysis** identifies key behavioral patterns, including cohort analysis, user segmentation, and user path visualization. The **SQL project** solves data extraction, aggregation, and analysis tasks, enabling improvements to business metrics based on query results.
+This folder contains **two independent projects** completed as part of the final assignment. The **mobile app analysis** identifies key behavioral patterns, including cohort analysis, user segmentation, and user path visualization. The **SQL project** solves data extraction, aggregation, and analysis tasks, enabling improvements to business metrics based on query results.
 
 ---
 
@@ -13,7 +13,7 @@ This repository contains **two independent projects** completed as part of the f
 - Conversion funnel and key product metric analysis  
 
 #### 🛠 Tools Used:
-- **Python**: (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`)
+- **Python**: (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Statsmodels`, `datetime`)
 
 #### 📂 Files:
 - 📄 [mobile_apps_user_segmentation.ipynb](mobile_apps_user_segmentation.ipynb) — Jupyter Notebook with full analysis  
@@ -29,7 +29,8 @@ This repository contains **two independent projects** completed as part of the f
 - Preparing data for analysis and optimizing queries  
 
 #### 🛠 Tools Used:
-- **SQL**: (`PostgreSQL` / `MySQL` / `SQLite`, etc.)
+- **SQL**: (`SQLAlchemy`)
+- **Python**: (`Pandas`)
 
 #### 📂 File:
 - 📄 [sql_book_service_research.ipynb](sql_book_service_research.ipynb) — solution to the SQL tasks
