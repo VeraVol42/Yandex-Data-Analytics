@@ -8,7 +8,7 @@
 - Оценка динамики рынка по годам  
 
 #### 🛠 Используемые инструменты:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`  
 - **Jupyter Notebook**  
 
 #### 📂 Файл:  
