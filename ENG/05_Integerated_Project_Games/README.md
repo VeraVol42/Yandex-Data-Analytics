@@ -8,7 +8,7 @@ This project focuses on exploring the video game market, analyzing sales, and id
 - Evaluate market dynamics over the years  
 
 #### 🛠 Tools Used:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`
 - **Jupyter Notebook**  
 
 #### 📂 File:  
