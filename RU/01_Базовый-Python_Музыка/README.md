@@ -9,7 +9,7 @@
 - Анализ времени прослушивания музыки  
 
 #### 🛠 Используемые инструменты:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`
 - **Jupyter Notebook** 
 
 #### 📂 Файл: 
