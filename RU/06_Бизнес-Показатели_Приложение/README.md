@@ -8,7 +8,7 @@
 - Исследование эффективности маркетинговых кампаний  
 
 #### 🛠 Используемые инструменты:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Datetime`  
 - **Jupyter Notebook**  
 
 #### 📂 Файл:  
