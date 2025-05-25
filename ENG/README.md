@@ -12,9 +12,9 @@ A portfolio of projects completed as part of the "Data Analyst" course from Yand
 
 | #  | 📌 Project Title                                              | 🔍 Description | 🛠 Tools Used |
 |----|---------------------------------------------------------------|----------------|----------------------------|
-| 1  | [Introductory Project. Music of Big Cities](01_Базовый-Python_Музыка/yandex_music_genre_analysis.ipynb) | Analysis of Yandex.Music users’ preferences, genre trends, and city-by-city comparison. | `Pandas` |
-| 2  | [Loan Reliability Analysis](02_Предобработка-Данных_Банк/credit_risk_assessment.ipynb) | Analysis of borrower data, exploration of default factors, and building a credit risk prediction model. | `Pandas`|
-| 3  | [Real Estate Listings Research](03_Исследовательский-Анализ_Недвижимость/real_estate_prices_analysis.ipynb) | Analysis of factors affecting real estate prices, pattern discovery, and market trend analysis. | `Pandas`, `Matplotlib` |
+| 1  | [Introductory Project. Music of Big Cities](01_Basic_Python_Music/yandex_music_genre_analysis.ipynb) | Analysis of Yandex.Music users’ preferences, genre trends, and city-by-city comparison. | `Pandas` |
+| 2  | [Loan Reliability Analysis](02_Data_Preprocessing_Borrowers/credit_risk_assessment.ipynb) | Analysis of borrower data, exploration of default factors, and building a credit risk prediction model. | `Pandas`|
+| 3  | [Real Estate Listings Research](03_EDA_Apartments/real_estate_prices_analysis.ipynb) | Analysis of factors affecting real estate prices, pattern discovery, and market trend analysis. | `Pandas`, `Matplotlib` |
 | 4  | [Scooter Rental Service Research (GoFast)](04_Статистический-Анализ_Самокаты/scooter_user_behavior_analysis.ipynb) | Seasonality, usage patterns, ride duration, and demand factors. | `Pandas`, `NumPy`, `Matplotlib`, `SciPy` |
 | 5  | [Video Game Market Research](05_Сборный-Проект_Видеоигры/video_game_market_trends.ipynb) | Analysis of video game sales, popular genres and platforms, and market dynamics by year. | `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn` |
 | 6  | [Business Metrics Analysis](06_Бизнес-Показатели_Приложение/entertainment_app_marketing_analysis.ipynb) | User behavior in a mobile app, core metrics analysis, and evaluation of marketing performance. | `Pandas`, `NumPy`, `Matplotlib`, `Datetime` |
