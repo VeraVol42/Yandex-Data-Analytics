@@ -37,5 +37,5 @@
 
 
 #### 📂 Файл: 
-- 📄 [sql_book_service_research.ipynb](sql_book_service_research.ipynb) — решение SQL-задач
+- 📄 [sql_final_project_ru.ipynb](sql_final_project_ru.ipynb) — решение SQL-задач
 
