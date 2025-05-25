@@ -8,7 +8,7 @@ This project is dedicated to analyzing user behavior in the GoFast electric scoo
 - Identify key factors influencing demand  
 
 #### 🛠 Tools Used:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `SciPy`  
 - **Jupyter Notebook**  
 
 #### 📂 Project File:  
