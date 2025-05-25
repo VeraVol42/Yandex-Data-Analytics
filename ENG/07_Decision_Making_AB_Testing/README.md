@@ -8,7 +8,7 @@ This project is dedicated to the prioritization of hypotheses and the analysis o
 - Analyze the statistical significance of differences between groups
 
 #### 🛠 Tools Used:
-- **Python**: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Statsmodels`
+- **Python**: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `datetime`
 - **Jupyter Notebook**
 
 #### 📂 File:  
