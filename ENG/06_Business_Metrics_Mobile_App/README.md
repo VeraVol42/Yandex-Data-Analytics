@@ -8,7 +8,7 @@ This project focuses on analyzing user behavior within an entertainment mobile a
 - Assess the effectiveness of marketing campaigns  
 
 #### 🛠 Tools Used:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `datetime`
 - **Jupyter Notebook**  
 
 #### 📂 File:  
