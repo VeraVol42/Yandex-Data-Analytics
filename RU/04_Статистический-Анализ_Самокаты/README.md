@@ -9,7 +9,7 @@
 - Оценка ключевых факторов, влияющих на спрос  
 
 #### 🛠 Используемые инструменты:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `SciPy`  
 - **Jupyter Notebook**  
 
 #### 📂 Файл проекта:  
