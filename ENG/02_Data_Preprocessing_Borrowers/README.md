@@ -8,7 +8,7 @@ This project is dedicated to analyzing borrower data and building a model to ass
 - Train a classification model to predict risks  
 
 #### 🛠 Tools Used:
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`  
+- **Python**: `Pandas`
 - **Jupyter Notebook**  
 
 #### 📂 File:
