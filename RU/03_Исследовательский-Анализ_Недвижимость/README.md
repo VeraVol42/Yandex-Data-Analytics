@@ -8,7 +8,7 @@
 - Оценка трендов на рынке недвижимости  
 
 #### 🛠 Используемые инструменты:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`, `Matplotlib`
 - **Jupyter Notebook**  
 
 #### 📂 Файл: 
