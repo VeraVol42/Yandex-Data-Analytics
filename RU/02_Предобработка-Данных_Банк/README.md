@@ -9,7 +9,7 @@
 - Обучение модели классификации для прогнозирования рисков  
 
 #### 🛠 Используемые инструменты:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`  
+- **Python**: `Pandas`, `Matplotlib` 
 - **Jupyter Notebook**  
 
 #### 📂 Файл:  
