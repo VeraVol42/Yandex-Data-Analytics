@@ -9,7 +9,7 @@
 - Анализ статистической значимости различий между группами  
 
 #### 🛠 Используемые инструменты:  
-- **Python**: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Statsmodels`  
+- **Python**: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `datetime`
 - **Jupyter Notebook**  
 
 #### 📂 Файл:  
