@@ -8,7 +8,7 @@ This project focuses on analyzing the factors that influence property prices and
 - Evaluate real estate market trends  
 
 #### 🛠 Tools Used:  
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+- **Python**: `Pandas`, `Matplotlib`
 - **Jupyter Notebook**  
 
 #### 📂 File:  
