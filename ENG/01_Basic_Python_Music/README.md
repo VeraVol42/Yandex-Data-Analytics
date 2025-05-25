@@ -8,7 +8,7 @@ This project is dedicated to studying the musical preferences of Yandex.Music us
 - Analyze the timing of music listening
 
 #### 🛠 Tools Used:
-- **Python**: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+- **Python**: `Pandas`
 - **Jupyter Notebook**
 
 #### 📂 File:
