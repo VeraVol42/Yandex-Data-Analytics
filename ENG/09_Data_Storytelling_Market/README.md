@@ -14,4 +14,4 @@ This project focuses on exploring the food service market in Moscow, analyzing i
 
 #### 📂 Files:  
 - 📄 [moscow_food_market_analysis.ipynb](moscow_food_market_analysis.ipynb)  
-- 📊 [Presentation PDF](https://drive.google.com/file/d/1VED5fYsJKlVzQ2MKEnQOOHLQv4ixuoL9/view?usp=sharing)
+- 📊 [Presentation PDF](https://drive.google.com/file/d/1fayfQAGfFiEhj_yWlolSYiv9hsBfYSpg/view?usp=sharing)
