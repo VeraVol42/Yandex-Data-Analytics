@@ -8,7 +8,7 @@ This project focuses on analyzing user conversion and the results of an A/A/B te
 - Analyze the statistical significance of differences between groups  
 
 #### 🛠 Tools Used:  
-- **Python**: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Statsmodels`  
+- **Python**: `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`, `Plotly`, `datetime`
 - **Jupyter Notebook**  
 
 #### 📂 File:  
